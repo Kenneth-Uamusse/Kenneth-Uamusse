@@ -3,7 +3,7 @@ Passionate about coding, always exploring new technologies, and turning ideas in
 
 ![Kenneth GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenneth-Uamusse&show_icons=true&theme=onedark)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenneth-Uamusse)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies
 
