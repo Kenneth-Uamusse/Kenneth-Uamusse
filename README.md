@@ -60,3 +60,9 @@ Passionate about coding, always exploring new technologies, and turning ideas in
         <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JWT">
     </a>
 </div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kenneth-Uamusse&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<summary><b>👀Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kenneth-Uamusse&theme=github_dark" alt="Felizardo77-profile-details" align = "center"/></p>
